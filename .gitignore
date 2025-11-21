@@ -7,6 +7,7 @@ __pycache__/
 workspace/
 build/
 dist/
+models/
 *.egg-info/
 .gradio/
 
